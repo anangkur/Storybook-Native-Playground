@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@storybook/native": "^2.2.0"
+  }
+}
