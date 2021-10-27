@@ -40,6 +40,8 @@ stories in `./stories` with `*.stories.jsx` file extension)
 `./storybook-static`)
 6. open file `index.html` inside `./storybook-static` to open the storybook.
 
+> see [Storybook Native Playground Result](https://anangkur.github.io/Storybook-Native-Playground-Result/?path=/story/button--example) to see the example
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
